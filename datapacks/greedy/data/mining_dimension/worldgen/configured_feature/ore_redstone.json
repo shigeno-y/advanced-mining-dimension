@@ -16,7 +16,7 @@
                   },
                   "Name": "minecraft:redstone_ore"
                 },
-                "size": 16
+                "size": 32
               },
               "type": "minecraft:ore"
             },
